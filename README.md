@@ -1,4 +1,14 @@
 ## Hi there 👋
+Data Barber by Day — Compliance Ninja by Night.
+I clean datasets like I clean lineups — sharp, structured, and built for impact.
+
+AI Analyst | Data Cleaning Specialist | GRC Project Lead @ Protexxa
+
+Working at the intersection of AI, Data Compliance, and Creative Problem-Solving.
+
+Tools of the trade: Python, VS Code, Jupyter, MongoDB, FiftyOne, Hugging Face — and a good pair of clippers.
+
+Here to build clean pipelines, clean documentation, and clean fades.
 
 <!--
 **ANADelta/ANADelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
